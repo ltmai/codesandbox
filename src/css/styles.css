@@ -1,0 +1,11 @@
+@import "./fancy-button.css";
+@import "./todo.css";
+@import "./loading.css";
+
+body {
+  background: #ffffff;
+}
+
+.App {
+  font-family: sans-serif;
+}

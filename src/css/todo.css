@@ -1,0 +1,19 @@
+.box {
+  border-radius: 18px;
+  border-style: ridge;
+  padding: 5px;
+  width: 400px;
+}
+
+.task-done {
+  font-family: monospace;
+  font-size: 2em;
+  text-decoration: line-through;
+  background: #73ad21;
+}
+
+.task-new {
+  font-family: monospace;
+  font-size: 2em;
+  background: #ffff00;
+}
